@@ -5,6 +5,13 @@ description: 強化軟體以降低安全風險。用於處理使用者輸入、a
 
 # 安全與強化
 
+## Skill 介面
+
+- 名稱：security-and-hardening。
+- 描述：在處理 user input、authentication、authorization、sessions、secrets、file uploads、external integrations、webhooks、browser data、storage 或 privileged actions 時，降低 software security risk。
+- 參數：Assets、actors、trust boundaries、privilege model、untrusted inputs、storage 或 transport paths、secret handling rules、audit requirements，以及 security-relevant tests。
+- 執行指令：當變更跨越 trust boundary 或處理 sensitive data 時使用此 skill。在邊界驗證 inputs，在 trusted code 強制 authorization，避免洩漏 secrets，並測試 denial、malformed input 與 privilege boundaries。
+
 將外部輸入、生成內容、瀏覽器內容、工具輸出與第三方回應視為不可信任，直到完成驗證。
 
 ## 流程

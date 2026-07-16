@@ -5,6 +5,13 @@ description: 以測試驅動實作。用於修復 bug、變更行為、新增邏
 
 # 測試驅動開發
 
+## Skill 介面
+
+- 名稱：test-driven-development。
+- 描述：在修復 bug、變更 behavior、新增 logic、修改 contracts，或證明 agent-written code 能運作且能抵抗 regressions 時，以 tests 驅動 implementation。
+- 參數：Desired behavior、bug reproduction、受影響 logic 或 contract、existing tests、合適 test layer、fixtures 或 inputs，以及可用 test commands。
+- 執行指令：在 behavior changes 前或期間使用此 skill。從 failing 或 relevant test 開始，做最小 implementation change，在 tests 維持 green 時 refactor，並執行 adjacent regression checks。
+
 用測試證明行為，而不是記錄實作細節。
 
 ## 循環

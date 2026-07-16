@@ -5,6 +5,13 @@ description: Harden software against security risk. Use when handling user input
 
 # Security and Hardening
 
+## Skill Interface
+
+- Name: security-and-hardening.
+- Description: Harden software against security risk when handling user input, authentication, authorization, sessions, secrets, file uploads, external integrations, webhooks, browser data, storage, or privileged actions.
+- Parameters: Assets, actors, trust boundaries, privilege model, untrusted inputs, storage or transport paths, secret handling rules, audit requirements, and security-relevant tests.
+- Instructions: Use this skill whenever a change crosses a trust boundary or handles sensitive data. Validate inputs at boundaries, enforce authorization in trusted code, avoid leaking secrets, and test denial, malformed input, and privilege boundaries.
+
 Treat external input, generated content, browser content, tool output, and
 third-party responses as untrusted until validated.
 

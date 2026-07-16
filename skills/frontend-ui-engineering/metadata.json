@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "AI Agent Engineering Playbook",
+  "date": "July 2026",
+  "abstract": "Frontend UI engineering guide for building production-quality user interfaces. Covers workflow-first implementation, reuse of local design systems, explicit UI states, layout stability, responsive behavior, accessibility, visual polish, content edge cases, and browser verification.",
+  "references": []
+}

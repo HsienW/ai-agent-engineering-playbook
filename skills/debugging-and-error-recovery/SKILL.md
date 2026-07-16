@@ -5,6 +5,13 @@ description: Guide systematic root-cause debugging. Use when tests fail, builds 
 
 # Debugging and Error Recovery
 
+## Skill Interface
+
+- Name: debugging-and-error-recovery.
+- Description: Guide systematic root-cause debugging when tests fail, builds break, runtime behavior is unexpected, logs show errors, or repeated fixes do not resolve the same issue.
+- Parameters: Exact symptom, failing command or workflow, inputs, outputs, logs, timestamps, environment details, recent diffs, and available reproduction or verification commands.
+- Instructions: Use this skill before changing code for an unclear failure. Reproduce the issue, identify the failing layer, test one hypothesis at a time, preserve evidence, and re-run the original reproduction after the fix.
+
 Prove the failure before changing code. Keep the investigation narrow until the
 failure layer is known.
 

@@ -5,6 +5,13 @@ description: Drive implementation with tests. Use when fixing bugs, changing beh
 
 # Test-Driven Development
 
+## Skill Interface
+
+- Name: test-driven-development.
+- Description: Drive implementation with tests when fixing bugs, changing behavior, adding logic, modifying contracts, or proving that agent-written code works and remains safe across regressions.
+- Parameters: Desired behavior, bug reproduction, affected logic or contract, existing tests, suitable test layer, fixtures or inputs, and available test commands.
+- Instructions: Use this skill before or during behavior changes. Start with a failing or relevant test, make the smallest implementation change, refactor while tests stay green, and run adjacent regression checks.
+
 Use tests to prove behavior, not to document implementation trivia.
 
 ## Cycle

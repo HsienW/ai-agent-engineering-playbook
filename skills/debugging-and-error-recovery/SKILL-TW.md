@@ -5,6 +5,13 @@ description: 指導系統化 root-cause debugging。用於 tests fail、builds b
 
 # Debugging 與錯誤復原
 
+## Skill 介面
+
+- 名稱：debugging-and-error-recovery。
+- 描述：在 tests fail、builds break、runtime behavior 異常、logs 顯示 errors，或重複修復仍無法解決同一問題時，提供系統化 root-cause debugging 指引。
+- 參數：精確 symptom、失敗 command 或 workflow、inputs、outputs、logs、timestamps、environment details、近期 diffs，以及可用的 reproduction 或 verification commands。
+- 執行指令：在不明確 failure 下改 code 前使用此 skill。先 reproduce issue，辨識 failing layer，一次測試一個 hypothesis，保留 evidence，修復後重新執行原始 reproduction。
+
 先證明 failure，再變更程式碼。在 failure layer 尚未確定前，讓調查範圍保持狹窄。
 
 ## Triage

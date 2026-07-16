@@ -5,6 +5,13 @@ description: 以小型且可驗證的 increments 交付變更。用於實作 mul
 
 # 漸進式實作
 
+## Skill 介面
+
+- 名稱：incremental-implementation。
+- 描述：針對 multi-file features、refactors、migrations、bug fixes，或任何一次完成會變得有風險的任務，以小型且可驗證的 increments 交付變更。
+- 參數：目標 outcome、受影響 files 或 modules、目前 constraints、風險區域、可用 tests 或 checks，以及必要的 compatibility 或 rollout conditions。
+- 執行指令：當任務範圍較廣或風險較高時使用此 skill。定義最小可用 slice，只實作該 slice，完成驗證，在擴大 scope 前修復 failures，並回報已完成 slices 與剩餘工作。
+
 一次建構一個完整 slice。每個 slice 都應讓 workspace 維持在可運作、可測試的狀態。
 
 ## 流程

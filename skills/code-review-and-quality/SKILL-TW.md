@@ -5,6 +5,13 @@ description: 執行多面向 code review。用於合併 agent 或人類寫的程
 
 # Code Review 與品質
 
+## Skill 介面
+
+- 名稱：code-review-and-quality。
+- 描述：在合併 agent 或人類寫的程式碼前，針對 correctness、maintainability、security、tests、observability 與 contract risk 執行多面向 code review。
+- 參數：待審查的 diff 或 files、需求說明、受影響 contracts、相關 tests、風險區域，以及已產生的 verification output。
+- 執行指令：當使用者要求 review 或需要評估 merge readiness 時使用此 skill。先列 findings，優先處理具體 bugs 與 regressions，引用 file 與 line evidence，並分開說明未驗證與驗證失敗的檢查。
+
 先審查 bugs。相較於摘要，帶有證據的 findings 更重要。
 
 ## 審查順序

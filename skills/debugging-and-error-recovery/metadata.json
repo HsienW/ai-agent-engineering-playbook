@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "AI Agent Engineering Playbook",
+  "date": "July 2026",
+  "abstract": "Systematic root-cause debugging and recovery guide for failing tests, broken builds, unexpected runtime behavior, log errors, and repeated unsuccessful fixes. Emphasizes reliable reproduction, failing-layer identification, hypothesis testing, evidence preservation, stop rules, and final verification.",
+  "references": []
+}

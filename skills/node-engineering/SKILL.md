@@ -5,6 +5,13 @@ description: Guide robust Node.js and TypeScript engineering. Use when working o
 
 # Node Engineering
 
+## Skill Interface
+
+- Name: node-engineering.
+- Description: Guide robust Node.js and TypeScript engineering for services, scripts, CLIs, tests, streams, async workflows, module boundaries, environment configuration, logging, caching, profiling, and graceful shutdown.
+- Parameters: Runtime entry points, package scripts, environment variables, async resources, dependency boundaries, logging requirements, test commands, and representative input or fixtures.
+- Instructions: Use this skill when working in Node.js or TypeScript runtimes. Make runtime contracts explicit, validate external data and environment at boundaries, manage async resources deliberately, and run the local lint, type-check, test, or build commands that apply.
+
 Prefer explicit runtime behavior over framework assumptions. Treat process
 lifetime, async resources, environment variables, and module boundaries as
 production contracts.

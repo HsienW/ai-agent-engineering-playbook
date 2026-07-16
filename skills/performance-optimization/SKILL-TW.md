@@ -5,6 +5,13 @@ description: 以證據最佳化應用程式效能。用於 latency、throughput�
 
 # 效能最佳化
 
+## Skill 介面
+
+- 名稱：performance-optimization。
+- 描述：當 latency、throughput、memory、bundle size、rendering speed、Core Web Vitals、query time、startup time 或 resource usage 重要時，以 evidence 最佳化 application performance。
+- 參數：Target metric、acceptable threshold、slow path reproduction、realistic input、baseline measurement、profiling 或 tracing data、constraints，以及 correctness 或 regression tests。
+- 執行指令：在進行 performance changes 前使用此 skill。先 measurement，找出真正 bottleneck，做最小且聚焦的變更，用同一方法比較 before/after，並回報剩餘 validation risk。
+
 先量測，再最佳化。最佳化會影響使用者或系統容量的 bottleneck，然後再次量測。
 
 ## 工作流程
