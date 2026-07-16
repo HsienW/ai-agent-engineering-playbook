@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "AI Agent Engineering Playbook",
+  "date": "July 2026",
+  "abstract": "Type boundary contract guide for AI agents and LLMs. Covers package, service, frontend, backend, tool, event, and transport boundaries, including schemas, discriminated unions, runtime parsers, error envelopes, schemaVersion fields, domain and transport type separation, compatibility expectations, and contract test scenarios.",
+  "references": []
+}
