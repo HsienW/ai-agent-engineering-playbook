@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "AI Agent Engineering Playbook",
+  "date": "July 2026",
+  "abstract": "Observability and instrumentation guide for adding or reviewing logs, metrics, traces, audit events, health checks, alerts, and production diagnostics. Focuses on operator questions, bounded telemetry, correlation identifiers, sensitive data redaction, alert quality, and sink verification.",
+  "references": []
+}

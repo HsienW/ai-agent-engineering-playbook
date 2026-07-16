@@ -5,6 +5,13 @@ description: Optimize application performance with evidence. Use when latency, t
 
 # Performance Optimization
 
+## Skill Interface
+
+- Name: performance-optimization.
+- Description: Optimize application performance with evidence when latency, throughput, memory, bundle size, rendering speed, Core Web Vitals, query time, startup time, or resource usage matters.
+- Parameters: Target metric, acceptable threshold, slow path reproduction, realistic input, baseline measurement, profiling or tracing data, constraints, and correctness or regression tests.
+- Instructions: Use this skill before performance changes. Measure first, locate the real bottleneck, make the smallest targeted change, compare before and after with the same method, and report residual validation risk.
+
 Measure before optimizing. Optimize the bottleneck that affects users or system
 capacity, then measure again.
 

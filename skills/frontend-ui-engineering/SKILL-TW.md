@@ -5,6 +5,13 @@ description: 建構 production-quality frontend interfaces。用於建立或修�
 
 # Frontend UI 工程
 
+## Skill 介面
+
+- 名稱：frontend-ui-engineering。
+- 描述：為 UI components、layouts、interaction states、responsive behavior、accessibility、visual polish 與 user-facing workflows 建構 production-quality frontend interfaces。
+- 參數：User workflow、目標 components 或 routes、design system conventions、data states、content constraints、accessibility needs、viewport targets，以及可用的 visual 或 automated verification commands。
+- 執行指令：建立或修改 UI 時使用此 skill。先完成可用 workflow，重用本地 design patterns，明確建模重要 states，用真實內容驗證 responsive behavior，並檢查 accessibility 與 console health。
+
 優先建構真正可用的體驗。貼合產品情境：operational tools 應該高效率且容易掃讀；creative 或 consumer experiences 可以更有表現力。
 
 ## Component 流程

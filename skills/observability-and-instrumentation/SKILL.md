@@ -5,6 +5,13 @@ description: Add or review observability. Use when adding logs, metrics, traces,
 
 # Observability and Instrumentation
 
+## Skill Interface
+
+- Name: observability-and-instrumentation.
+- Description: Add or review observability through logs, metrics, traces, audit events, health checks, alerts, and production diagnostics for features, background jobs, APIs, tools, and integrations.
+- Parameters: Feature or workflow being observed, operator questions, success and failure paths, correlation identifiers, sensitive fields, telemetry sinks, alert thresholds, and verification method.
+- Instructions: Use this skill when adding or assessing production signals. Define the questions operators need answered, choose bounded signals, redact sensitive data, include correlation, and verify emitted telemetry in the expected sink.
+
 Instrument the questions operators need to answer. Do not add noisy logs as a
 substitute for clear signals.
 

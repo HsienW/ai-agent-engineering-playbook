@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "AI Agent Engineering Playbook",
+  "date": "July 2026",
+  "abstract": "Multi-axis code review guide for evaluating agent-written or human-written diffs before merge. Prioritizes concrete findings with evidence across correctness, contract safety, security, reliability, tests, maintainability, observability, severity classification, and residual risk reporting.",
+  "references": []
+}

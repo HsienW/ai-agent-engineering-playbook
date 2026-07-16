@@ -5,6 +5,13 @@ description: 指導穩健的 Node.js 與 TypeScript 工程實作。用於 Node s
 
 # Node 工程
 
+## Skill 介面
+
+- 名稱：node-engineering。
+- 描述：為 Node.js 與 TypeScript services、scripts、CLIs、tests、streams、async workflows、module boundaries、environment configuration、logging、caching、profiling 與 graceful shutdown 提供穩健工程指引。
+- 參數：Runtime entry points、package scripts、environment variables、async resources、dependency boundaries、logging requirements、test commands，以及代表性 input 或 fixtures。
+- 執行指令：在 Node.js 或 TypeScript runtimes 工作時使用此 skill。明確定義 runtime contracts，在邊界驗證 external data 與 environment，謹慎管理 async resources，並執行適用的本地 lint、type-check、test 或 build commands。
+
 偏好明確的 runtime 行為，而不是 framework assumptions。將 process lifetime、async resources、environment variables 與 module boundaries 視為 production contracts。
 
 ## 核心規則

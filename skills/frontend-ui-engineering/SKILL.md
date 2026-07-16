@@ -5,6 +5,13 @@ description: Build production-quality frontend interfaces. Use when creating or 
 
 # Frontend UI Engineering
 
+## Skill Interface
+
+- Name: frontend-ui-engineering.
+- Description: Build production-quality frontend interfaces for UI components, layouts, interaction states, responsive behavior, accessibility, visual polish, and user-facing workflows.
+- Parameters: User workflow, target components or routes, design system conventions, data states, content constraints, accessibility needs, viewport targets, and available visual or automated verification commands.
+- Instructions: Use this skill when creating or modifying UI. Build the usable workflow first, reuse local design patterns, model all important states, verify responsive behavior with realistic content, and check accessibility and console health.
+
 Build the real usable experience first. Match the product context: operational
 tools should be efficient and scannable; creative or consumer experiences can be
 more expressive.

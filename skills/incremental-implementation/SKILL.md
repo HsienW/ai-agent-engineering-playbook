@@ -5,6 +5,13 @@ description: Deliver changes in small verifiable increments. Use when implementi
 
 # Incremental Implementation
 
+## Skill Interface
+
+- Name: incremental-implementation.
+- Description: Deliver changes in small verifiable increments for multi-file features, refactors, migrations, bug fixes, or any task that becomes risky when completed in one pass.
+- Parameters: Target outcome, affected files or modules, current constraints, risk areas, available tests or checks, and any required compatibility or rollout conditions.
+- Instructions: Use this skill when the task is broad or risky. Define the smallest useful slice, implement only that slice, verify it, fix failures before expanding scope, and report completed slices plus remaining work.
+
 Build one complete slice at a time. Each slice should leave the workspace in a
 working, testable state.
 

@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "AI Agent Engineering Playbook",
+  "date": "July 2026",
+  "abstract": "Security and hardening guide for changes involving user input, authentication, authorization, sessions, secrets, file uploads, external integrations, webhooks, browser data, storage, or privileged actions. Covers trust boundaries, validation, server-side authorization, secret handling, audit needs, and security tests.",
+  "references": []
+}

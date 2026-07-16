@@ -5,6 +5,13 @@ description: 指導穩定的 API 與 interface design。用於建立或變更 pu
 
 # API 與 Interface 設計
 
+## Skill 介面
+
+- 名稱：api-and-interface-design。
+- 描述：為 public module boundaries、REST 或 GraphQL endpoints、event contracts、SDK methods、data transfer objects、error envelopes 與 cross-team interfaces 提供穩定的 API 與 interface design 指引。
+- 參數：目標 interface 或 contract、預期 consumers、request 與 response shapes、error model、相容性要求、版本預期，以及可用的 schema 或 test commands。
+- 執行指令：在實作或變更 public contract 前使用此 skill。先定義 contract，檢查 backward compatibility，明確處理 runtime validation，並用 contract tests 或 schema tests 驗證行為。
+
 先設計 contracts，再實作。將每個 public shape 視為其他 caller 可能依賴的東西，即使目前 codebase 只有一個 caller。
 
 ## 流程

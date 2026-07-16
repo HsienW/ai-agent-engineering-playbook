@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "AI Agent Engineering Playbook",
+  "date": "July 2026",
+  "abstract": "Test-driven development guide for fixing bugs, changing behavior, adding logic, modifying contracts, and proving agent-written code against regressions. Covers red-green-refactor workflow, bug reproduction, test layer selection, assertion discipline, and coverage scenarios.",
+  "references": []
+}

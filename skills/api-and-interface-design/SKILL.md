@@ -5,6 +5,13 @@ description: Guide stable API and interface design. Use when creating or changin
 
 # API and Interface Design
 
+## Skill Interface
+
+- Name: api-and-interface-design.
+- Description: Guide stable API and interface design for public module boundaries, REST or GraphQL endpoints, event contracts, SDK methods, data transfer objects, error envelopes, and cross-team interfaces.
+- Parameters: Target interface or contract, expected consumers, request and response shapes, error model, compatibility requirements, versioning expectations, and available schema or test commands.
+- Instructions: Use this skill before implementing or changing a public contract. Define the contract first, check backward compatibility, make runtime validation explicit, and verify behavior with contract or schema tests.
+
 Design contracts before implementation. Treat every public shape as something
 another caller may depend on, even if the current codebase has only one caller.
 

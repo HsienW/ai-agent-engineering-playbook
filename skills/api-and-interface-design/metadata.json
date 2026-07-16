@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "AI Agent Engineering Playbook",
+  "date": "July 2026",
+  "abstract": "Guidance for designing stable APIs and interfaces before implementation. Covers public module boundaries, REST and GraphQL endpoints, event contracts, SDK methods, DTOs, error envelopes, runtime validation, compatibility review, versioning behavior, and contract or schema test verification.",
+  "references": []
+}

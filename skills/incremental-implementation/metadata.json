@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "AI Agent Engineering Playbook",
+  "date": "July 2026",
+  "abstract": "Incremental implementation guide for delivering risky or broad changes in small verifiable slices. Covers slice definition, scoped implementation, verification after each step, failure handling, rollout-safe defaults, and handoff reporting for completed and remaining work.",
+  "references": []
+}

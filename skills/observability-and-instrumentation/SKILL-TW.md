@@ -5,6 +5,13 @@ description: 新增或審查 observability。用於為 features、background job
 
 # Observability 與 Instrumentation
 
+## Skill 介面
+
+- 名稱：observability-and-instrumentation。
+- 描述：為 features、background jobs、APIs、tools 與 integrations 新增或審查 logs、metrics、traces、audit events、health checks、alerts 與 production diagnostics。
+- 參數：要觀測的 feature 或 workflow、operator questions、success 與 failure paths、correlation identifiers、sensitive fields、telemetry sinks、alert thresholds，以及 verification method。
+- 執行指令：新增或評估 production signals 時使用此 skill。定義 operators 需要回答的問題，選擇 bounded signals，redact sensitive data，加入 correlation，並在預期 sink 驗證 emitted telemetry。
+
 針對 operators 需要回答的問題加上 instrumentation。不要用 noisy logs 取代清楚的 signals。
 
 ## 流程

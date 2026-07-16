@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "AI Agent Engineering Playbook",
+  "date": "July 2026",
+  "abstract": "Evidence-based performance optimization guide for latency, throughput, memory, bundle size, rendering speed, Core Web Vitals, query time, startup time, and resource usage. Requires baseline measurement, bottleneck identification, targeted changes, before-and-after comparison, and regression checks.",
+  "references": []
+}

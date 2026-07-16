@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "AI Agent Engineering Playbook",
+  "date": "July 2026",
+  "abstract": "Node.js and TypeScript engineering guide for robust services, scripts, CLIs, tests, streams, async workflows, module boundaries, environment configuration, logging, caching, profiling, and graceful shutdown. Emphasizes explicit runtime contracts and representative local verification.",
+  "references": []
+}

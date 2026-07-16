@@ -5,6 +5,13 @@ description: Conduct multi-axis code review. Use before merging code written by 
 
 # Code Review and Quality
 
+## Skill Interface
+
+- Name: code-review-and-quality.
+- Description: Conduct multi-axis code review for correctness, maintainability, security, tests, observability, and contract risk before merging agent-written or human-written code.
+- Parameters: Diff or files under review, stated requirements, affected contracts, relevant tests, risk areas, and any verification output already produced.
+- Instructions: Use this skill when the user asks for a review or when assessing merge readiness. Lead with findings, prioritize concrete bugs and regressions, cite file and line evidence, and separate unverified checks from failed checks.
+
 Review for bugs first. Summaries are secondary to findings with evidence.
 
 ## Review Order
