@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "AI Agent Engineering Playbook",
+  "date": "July 2026",
+  "abstract": "Structured tool-result rendering guide for AI agents and LLMs. Covers tool calls, tool messages, structured tool outputs, status cards, fallback JSON and text displays, parser boundaries, display status mappings, unknown tool results, sensitive field redaction, schema-driven rendering, and malformed output verification.",
+  "references": []
+}

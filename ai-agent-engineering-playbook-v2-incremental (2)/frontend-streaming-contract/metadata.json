@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "AI Agent Engineering Playbook",
+  "date": "July 2026",
+  "abstract": "Frontend streaming contract guide for AI agents and LLMs. Defines how to handle server-sent events, WebSocket messages, async iterables, stream parsers, reducer state, runtime event schemas, terminal states, progress timelines, cancellation, retries, fallback rendering, and verification of ordering and interruption behavior.",
+  "references": []
+}

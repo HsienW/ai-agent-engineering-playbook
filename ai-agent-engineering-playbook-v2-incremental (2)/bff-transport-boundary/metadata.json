@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "AI Agent Engineering Playbook",
+  "date": "July 2026",
+  "abstract": "Backend-for-Frontend transport boundary guide for AI agents and LLMs. Covers request parsing, runtime validation, authentication and authorization boundaries, CORS, header allowlists, streaming proxy behavior, backpressure, timeouts, cancellation propagation, transport error contracts, observability, and verification of success and failure paths.",
+  "references": []
+}

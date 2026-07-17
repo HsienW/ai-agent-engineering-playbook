@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "AI Agent Engineering Playbook",
+  "date": "July 2026",
+  "abstract": "LangGraph backend contract guide for AI agents and LLMs. Covers graph state, nodes, edges, reducers, commands, sends, checkpoints, runtime events, provider adapters, tool adapters, prompt-sensitive behavior, terminal states, resumable workflows, structured validation, and verification of graph invariants.",
+  "references": []
+}
