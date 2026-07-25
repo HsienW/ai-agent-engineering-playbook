@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "AI Agent Engineering Playbook",
+  "date": "July 2026",
+  "abstract": "Retry budget policy guide for agent steps, tools, providers, and transport calls. Covers error taxonomy, retryable classes, max attempts, max elapsed time, Retry-After handling, exponential backoff, jitter, cancellation propagation, persisted retry state, idempotency requirements, timeout handling, stop rules, and verification of retryable, non-retryable, exhausted, cancelled, and idempotent paths.",
+  "references": []
+}

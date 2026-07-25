@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "AI Agent Engineering Playbook",
+  "date": "July 2026",
+  "abstract": "Context budget governance guide for assembling safe and useful model-call context under token limits. Covers output reserves, candidate context blocks, priority models, relevance and recency scoring, safety filters, redaction, compression, deterministic degradation, source identifiers, and verification scenarios for prompts, tool results, retrieved evidence, memory, task state, system rules, multimodal observations, and summaries.",
+  "references": []
+}

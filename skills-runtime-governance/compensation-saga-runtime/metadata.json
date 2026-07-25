@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "AI Agent Engineering Playbook",
+  "date": "July 2026",
+  "abstract": "Compensation and Saga runtime guide for agent workflows that perform multi-step side effects. Covers rollback plans, reversible and irreversible actions, compensation ordering, idempotency keys, audit-linked recovery, cancellation cleanup, timeout handling, manual escalation, duplicate compensation prevention, and verification of recovery flows.",
+  "references": []
+}

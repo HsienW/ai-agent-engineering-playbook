@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "AI Agent Engineering Playbook",
+  "date": "July 2026",
+  "abstract": "Agent runtime observability and fault tolerance guide for AI agents and LLM-driven systems. Covers metrics, traces, cost tracking, audit alignment, structured runtime events, model and provider fallback, structured output repair, refusal handling, provider timeouts, and local execution tree diagnostics across task, step, model, tool, retry, and terminal paths.",
+  "references": []
+}

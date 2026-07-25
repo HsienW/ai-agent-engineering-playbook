@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "AI Agent Engineering Playbook",
+  "date": "July 2026",
+  "abstract": "Idempotency and audit contract guide for agent runtimes that perform side effects and need durable execution history. Covers scoped and versioned idempotency keys, record lifecycle, expiry policy, replay rules, audit event fields, actor and resource identifiers, redaction, tool decision auditing, duplicate side-effect prevention, retries, resumes, and crash recovery.",
+  "references": []
+}

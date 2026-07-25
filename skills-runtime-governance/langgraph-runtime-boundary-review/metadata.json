@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "AI Agent Engineering Playbook",
+  "date": "July 2026",
+  "abstract": "LangGraph runtime boundary review guide for deciding what should remain native runtime responsibility versus custom application runtime responsibility. Covers queueing, workers, checkpointers, stores, interrupts, resume flows, retries, task semantics, audit, locks, cost tracking, memory model, UI progress needs, minimal runtime evidence, and ownership decisions before adding custom agent runtime infrastructure.",
+  "references": []
+}
