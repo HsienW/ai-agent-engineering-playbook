@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "AI Agent Engineering Playbook",
+  "date": "July 2026",
+  "abstract": "Distributed step lock guide for protecting agent task and step transitions from concurrent mutation. Covers lock ownership, TTL behavior, lock extension and release checks, compare-and-swap guards, retries, duplicate resumes, compensation races, external requests, contention handling, expiry behavior, owner mismatch, lock store outages, and concurrency verification cases.",
+  "references": []
+}

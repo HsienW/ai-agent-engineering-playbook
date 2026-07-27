@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "AI Agent Engineering Playbook",
+  "date": "July 2026",
+  "abstract": "Agent task and step state machine guide for modeling business-level progress separately from graph execution state. Covers task statuses, step statuses, legal transitions, event models, persistence, streaming timelines, resumable task state, cross-layer status APIs, lifecycle verification, retry behavior, cancellation, compensation, and terminal-state discipline.",
+  "references": []
+}
