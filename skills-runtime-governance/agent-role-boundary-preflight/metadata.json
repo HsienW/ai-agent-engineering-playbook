@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "AI Agent Engineering Playbook",
+  "date": "September 2026",
+  "abstract": "Role-bound authorization preflight for multi-agent runtimes. Covers separation of tool capability from execution authority, lifecycle ownership, action- and target-scoped checks, fail-closed handoffs, pre-tool enforcement, alternate write-path controls, and adversarial verification for side-effecting operations.",
+  "references": []
+}
