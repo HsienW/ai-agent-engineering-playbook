@@ -1,5 +1,7 @@
 # AI Agent Engineering Playbook
 
+[繁體中文](README.md) | [English](README-en.md)
+
 ## 🔨 主要內容（Main content）
 - 提供 AI coding agents 重複使用的工程技能（engineering skills）。
 - 這個 repository 收錄常見工程與 agent runtime skills，並依用途分成 contract boundaries、delivery practices、application engineering、operational hardening，以及 runtime governance。
