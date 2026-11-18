@@ -1,6 +1,6 @@
 # AI Agent Engineering Playbook
 
-[繁體中文](README.md) | [English](README-en.md)
+[English](README-en.md) | [繁體中文](README.md) | [简体中文](README-cn.md)
 
 ## 🔨 主要內容（Main content）
 - 提供 AI coding agents 重複使用的工程技能（engineering skills）。
